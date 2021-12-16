@@ -1,5 +1,12 @@
-### Hi there, I am [Abdullah] 👋
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I am [Abdullah] , Software engineer from <b>Dhaka, Bangladesh</b>, currently living in  <b> Germany</b>.</p>
+I love to explore and learn about new things.</p>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=AbdMamun94.AbdMamun94)
 
 <p><em>🎓 BSC Software Enginner at <a href="http://www.unb.br"> University of Duisburg Essen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning <a href="https://www.thoughtworks.com">Data Science</a /a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -25,7 +32,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -36,4 +42,9 @@
 <br />
 <br />
 
-### Thanks for Comeing ❤️ 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/AbdMamun94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdullah-al-mamun" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ 
+</p>
+
+### Thanks for Coming ❤️ 
