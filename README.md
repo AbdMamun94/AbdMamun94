@@ -1,5 +1,13 @@
-### Hi there, I am Abdullah 👋
+### Hi there, I am [Abdullah] 👋
 
+
+<p><em>🎓 BSC Software Enginner at <a href="http://www.unb.br"> University of Duisburg Essen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning <a href="https://www.thoughtworks.com">Data Science</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
+
+
+### Activities:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdMamun94&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdMamun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
