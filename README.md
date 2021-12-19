@@ -21,8 +21,8 @@ I love to explore and learn about new things.</p>
 
 ### Activities:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdMamun94&show_icons=true&theme=light&line_height=20")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdMamun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=AbdMamun94&show_icons=true&theme=solarized-light" alt="AbdMamun94" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdMamun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -45,6 +45,7 @@ I love to explore and learn about new things.</p>
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
