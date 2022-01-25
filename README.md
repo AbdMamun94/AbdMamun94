@@ -68,3 +68,6 @@ I love to explore and learn about new things.</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ### Thanks for Coming ❤️ 
+
+<img src="https://komarev.com/ghpvc/?username=AbdMamun94&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/AbdMamun94/AbdMamun94?color=black&logo=github" />
