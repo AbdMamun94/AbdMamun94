@@ -70,5 +70,4 @@ I love to explore and learn about new things.</p>
 ### Thanks for Coming ❤️ 
 
 
-<img src="https://badges.pufler.dev/visits/AbdMamun94/AbdMamun94?color=black&logo=github" />
 
