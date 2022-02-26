@@ -8,7 +8,6 @@
 
 
 
-
 <p>Welcome to my page! </br> I am [Abdullah] , Software engineer from <b>Dhaka, Bangladesh</b>, currently living in  <b> Germany</b>.</p>
 
 I love to explore and learn about new things.</p>
