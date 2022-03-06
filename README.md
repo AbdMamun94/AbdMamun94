@@ -6,7 +6,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I am [Abdullah] , Software engineer from <b>Dhaka, Bangladesh</b>, currently living in  <b> Germany</b>.</p>
 
 I love to explore and learn about new things.</p>
@@ -14,7 +13,6 @@ I love to explore and learn about new things.</p>
 
 <p><em>🎓 BSC Software engineering at <a href="http://www.unb.br"> University of Duisburg Essen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>💻 Learning <a href="https://www.thoughtworks.com">Data Science and AI engineering</a /a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
 
 
 
