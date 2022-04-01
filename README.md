@@ -1,22 +1,25 @@
 
   <img src="https://img.shields.io/github/followers/AbdMamun94?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=AbdMamun94&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=AbdMamun94.AbdMamun94" alt="Profile Visitor"/>
-  
-  
+ 
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img align="right" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
+<img align="left" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
 
 <p>Welcome to my page! </br> I am [Abdullah] , Software engineer from <b>Dhaka, Bangladesh. currently living in  <b> Germany</b>.</p>
 
 
 I love to explore and learn about new things.</p>
 
-<p><em>🎓 BSC Software engineering at <a href="http://www.unb.br"> University of Duisburg Essen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>💻 Learning <a href="https://www.thoughtworks.com">Data Science and AI engineering</a /a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>🎓 BSC Software engineering at <a href="http://www.unb.br"> 
+ University of Duisburg Essen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>💻 Learning <a href="https://www.thoughtworks.com">Data Science and AI engineering</a /a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
 
+<br />
+<br />
+<br />
 
 ### Activities:
 
