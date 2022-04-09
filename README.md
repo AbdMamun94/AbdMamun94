@@ -8,9 +8,8 @@
 
 <img align="left" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
 
-<p> <b> Welcome to my page! 
+<p> <b> {Welcome to my page! } 
   </br> I am [Abdullah] , Software engineer from <b>Dhaka, Bangladesh. currently living in  <b> Germany</b>.</p>
-
 
 
 I love to explore and learn about new things.</p>
