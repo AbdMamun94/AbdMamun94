@@ -12,7 +12,6 @@
   </br> I am [Abdullah] , Software engineer from <b>Dhaka, Bangladesh. currently living in  <b> Germany</b>.</p>
 
 
-
 I love to explore and learn about new things.</p>
 
 <p><em>🎓 BSC Software engineering at <a href="http://www.unb.br"> 
