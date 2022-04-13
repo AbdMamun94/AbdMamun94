@@ -28,7 +28,6 @@ I love to explore and learn about new things.</p>
 <img src="https://github-readme-stats.vercel.app/api?username=AbdMamun94&show_icons=true&theme=great-gatsby" alt="AbdMamun94" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdMamun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ## :computer: Programming languages and tools: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
