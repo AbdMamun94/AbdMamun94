@@ -64,7 +64,7 @@ I love to explore and learn about new things.</p>
 <br/>
 <br/>
 
-<a href="#"><img alt="AbdMamun94 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdMamun94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="AbdMamun94 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdMamun94&bg_color=0D1117&color=5BCDEC&line=cdec5b&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
