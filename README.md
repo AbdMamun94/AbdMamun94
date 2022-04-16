@@ -61,7 +61,13 @@ I love to explore and learn about new things.</p>
   <a href="mailto:abdmamun199406@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
 </p>
+<br/>
+<br/>
 
+<a href="#"><img alt="AbdMamun94 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdMamun94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
    
   
 
