@@ -13,7 +13,6 @@
 
 I love to explore and learn about new things from Data World.</p>
 
-
 <p><em>🎓 BSC Software engineering at <a href="http://www.unb.br"> 
  University of Duisburg Essen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>💻 Interested in <a href="https://www.thoughtworks.com">Data Engineering , Data Analytics and Machine Learning </a /a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
